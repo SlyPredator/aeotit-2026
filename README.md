@@ -11,6 +11,10 @@ This repository provides a professional framework for training and comparing thr
 
 ## Repository Structure
 
+### 0. Training Metrics (`metrics`)
+This folder contains the details of all the relevant metrics like losses, learning rates (for the current best models that this project has yielded so far in form of the evaluation models provided above) in CSV files, with each epoch in the particular training session being detailed.
+The file format followed is `<model-type-name>_<number-of-epochs-trained>.csv`.
+
 ### 1. Training Suite (`src/train/`)
 These scripts handle the model-specific training logic and weight preservation.
 * **`train_yolo.py`**: A script utilizing the Ultralytics framework to train a YOLOv11s-segmentation model. It is optimized for real-time performance and includes automatic hyperparameter tuning.
