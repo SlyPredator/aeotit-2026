@@ -6,7 +6,7 @@ This repository provides a professional framework for training and comparing thr
 
 * [YOLO + UNet data](https://nitcacin-my.sharepoint.com/:u:/g/personal/navneeth_b230450me_nitc_ac_in/IQCoIrx9qbmdR4ZA24YFVa5XAeOUeJToJ4QlnNpUgQlBiVo?e=4ygABu)
 * [MaskRCNN data](https://nitcacin-my.sharepoint.com/:u:/g/personal/navneeth_b230450me_nitc_ac_in/IQA1t7bUDUJcTLlmlKhNmC-1AW9uGRfsrG3BcuLGrNeB3M0?e=T1pIR8)
-* [Trained models for evaluation](https://nitcacin-my.sharepoint.com/:f:/g/personal/navneeth_b230450me_nitc_ac_in/IgC0P7zbFywfQbXmiVF_jZy7AawEGASvldoKMQAtQ5txq4o?e=iLCVPE)
+* [Trained models for evaluation](https://nitcacin-my.sharepoint.com/:u:/g/personal/navneeth_b230450me_nitc_ac_in/IQAxTbf8jY07Rp-XVsejWEQbAWROGsTzNCF_teGPaTD2niE?e=YIgdex)
 * [Benchmark data](https://nitcacin-my.sharepoint.com/:u:/g/personal/navneeth_b230450me_nitc_ac_in/IQDMfAvCT7iQSbZSVHtv-pKjAdUhlaaRNHLaCosY86RzpHY?e=8QvAo4)
 
 ## Repository Structure
